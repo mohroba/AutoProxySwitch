@@ -1,0 +1,31 @@
+{
+  "name": "autoproxyswitch",
+  "version": "1.0.0",
+  "description": "Automatically switch proxy for defined sites",
+  "main": "src/background/background.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohroba/AutoProxySwitchExt.git"
+  },
+  "keywords": [
+    "auto",
+    "proxy",
+    "defined",
+    "site",
+    "proxy",
+    "proxy",
+    "switch"
+  ],
+  "author": "Mohsen Robatjazi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mohroba/AutoProxySwitchExt/issues"
+  },
+  "homepage": "https://github.com/mohroba/AutoProxySwitchExt#readme"
+}
